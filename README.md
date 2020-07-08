@@ -28,7 +28,7 @@ Hello Bob!
 Convert these strings that have random upper case and lowercase letters into a string that has only lower case letters
 
 Example:
-MdHaCks -> mdhacks
+`MdHaCks -> mdhacks`
 
 ## Puzzle 6
 Given a range as an input, print all the numbers in between that range
